@@ -47,8 +47,8 @@ async function listCourses() {
   console.log(courses);
 }
 
-// createAuthor('Marizza', 'My bio', 'My Website');
+createAuthor('Marizza', 'My bio', 'My Website');
 
 // createCourse('Node Course', '6138b287f6bc38a225221f94')
 
-listCourses();
+//listCourses();
